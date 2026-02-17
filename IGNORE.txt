@@ -1,0 +1,16 @@
+Backend : {
+    First to create virtual enviroement > "python -m venv venv"
+      for activate > "python manage.py shell" in "C:\Users\USER\Documents\WorkSpace\Software\Projects\A_PROJECT\Back>"
+      for deactivate > "venv\Scripts\deactivate"
+
+    This is commands fot start project:
+    Backend : python manage.py runserver 8000
+}
+
+Frontend : {
+    This is commands fot start project:
+    Frontend : npm run dev
+
+    To create virtual enviroement > ""
+      for activate > ""
+}

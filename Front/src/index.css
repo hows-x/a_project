@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap");
+@import "tailwindcss";
+@plugin "daisyui";
+@theme {
+  /*Fuentes Abril*/
+  --font-instrument-sans: "Instrument Sans", sans-serif;
+  /*Colores de Abril*/
+  --color-purple-booba: #9900ff;
+  --color-pink-booba: #e21cf4;
+  --color-purple-dark: #12051a;
+  --color-box-gray: #2b2b2b;
+  --color-back-gray: #222222;
+  --color-gray-opacity: #636363;
+}
