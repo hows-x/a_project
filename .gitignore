@@ -1,0 +1,23 @@
+# ======================
+# BACKEND
+# ======================
+Back/venv/
+Back/__pycache__/
+Back/*.pyc
+Back/.env
+
+# ======================
+# FRONTEND
+# ======================
+Front/node_modules/
+Front/dist/
+Front/.env
+
+# ======================
+# GENERAL
+# ======================
+.env
+__pycache__/
+*.pyc
+*.log
+.DS_Store
